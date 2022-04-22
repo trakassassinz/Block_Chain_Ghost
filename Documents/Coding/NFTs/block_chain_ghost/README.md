@@ -1,4 +1,4 @@
-# Open Punks
+# Block Chain Ghost
 
 ## Technology Stack & Tools
 
